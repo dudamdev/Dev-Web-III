@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  color: rgba(0, 0, 0, 0.879);
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.main {
+  text-align: center;
+  padding: 32vh 0;
+  height: 100vh;
+}
+
+h1 {
+  margin-bottom: 16px;
+}
+
+input {
+  margin-bottom: 16px;
+  padding: 8px;
+  border-radius: 8px 0 0 8px;
+  outline: none;
+  border: 1px solid darkslategray;
+}
+
+input::placeholder {
+  color: rgba(47, 79, 79, 0.766);
+}
+
+button {
+  padding: 8px;
+  border: 1px solid darkslategray;
+  color: cornsilk;
+  background-color: darkslategray;
+  border-radius: 0 8px 8px 0;
+  outline: none;
+}
+
+h2 {
+  margin-bottom: 8px;
+}
+
+label {
+  margin-right: 8px;
+}
+
+input[type="radio"] {
+  margin-right: 4px;
+}
+
+li {
+  margin-bottom: 4px;
+}
