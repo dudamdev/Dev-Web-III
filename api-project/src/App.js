@@ -11,7 +11,8 @@ function App() {
 
   async function loadAPI() {
     try {
-      const url = `https://pokeapi.co/api/v2/pokemon/${name}`;
+      const lowercaseName = name.toLowerCase();
+      const url = `https://pokeapi.co/api/v2/pokemon/${lowercaseName}`;
       const response = await fetch(url);
       if (!response.ok) {
         throw new Error('Pokemon não encontrado');
