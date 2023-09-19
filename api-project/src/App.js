@@ -90,7 +90,7 @@ function App() {
   return (
     <div className='container'>
       <header>
-        <h1>Pokedex</h1>
+        <a href="https://fontmeme.com/shadow-effect/"><img src="https://fontmeme.com/permalink/230919/239e0a32bf2cb9cad3b8d1291b3397e4.png" alt="shadow-effect" border="0" width="250" /></a>
       </header>
 
       <form onSubmit={handleSubmit}>
