@@ -4,6 +4,8 @@
 
 Veja a aplicação funcionando **[aqui](https://pokedex-api-nine-steel.vercel.app/)**.
 
+![1695152899183](image/README/1695152899183.png)
+
 ## Sobre o Projeto
 
 Este projeto é uma aplicação web que utiliza a API Pokémon para fornecer informações sobre os Pokémon. Ele foi desenvolvido com o objetivo de proporcionar aos fãs de Pokémon uma maneira fácil e divertida de explorar os detalhes de seus Pokémon favoritos.
