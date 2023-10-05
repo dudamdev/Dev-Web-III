@@ -1,0 +1,42 @@
+.contato-container {
+  margin: 4vh auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #2e446e;
+  color: whitesmoke;
+  padding: 16px 24px;
+  border-radius: 10px;
+}
+
+iframe {
+  border-radius: 10px;
+}
+
+.contato-container-info {
+  display: flex;
+}
+
+.contact-info {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+  padding: 16px;
+}
+
+h2 {
+  text-align: center;
+  margin: 16px;
+}
+
+.email-box {
+  border: 2px solid whitesmoke;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 16px 0;
+}
+
+.yellow-link {
+  color: #adc4f0;
+}

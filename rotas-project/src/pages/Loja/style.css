@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap");
+
+.container {
+  max-width: 90%;
+  margin: 24vh auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.loja-container {
+  width: 150px;
+  height: 150px;
+  background-color: #2e446e;
+  font-family: "Play", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.loja-link {
+  text-decoration: none;
+  color: whitesmoke;
+  font-weight: 700;
+  font-size: 18px;
+  margin: 10px 0;
+  display: block;
+}
