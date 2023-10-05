@@ -4,7 +4,14 @@
 
 Veja a aplicação funcionando **[aqui](https://pokedex-api-nine-steel.vercel.app/)**.
 
+- Web
+  
 ![1695152899183](image/README/1695152899183.png)
+
+- Mobile
+  
+![image](https://github.com/dudamdev/dev-web-III/assets/111284160/041d32ed-e822-4260-b7ed-3403c1f0d56a)
+
 
 ## Sobre o Projeto
 
